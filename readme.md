@@ -16,7 +16,7 @@ Alternatively, you may use one of the [multiple methods](http://google.github.io
 
 ## Usage
 
-```js
+```html
 <md-icon type="credit_card"></md-icon>
 ```
 
