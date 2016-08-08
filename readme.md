@@ -1,6 +1,6 @@
 # md-icon
 
-> Material Design Icon component.
+> Material Design Icon component for [Riot.js](https://github.com/riot/riot).
 
 
 ## Install

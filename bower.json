@@ -1,6 +1,6 @@
 {
 	"name": "riot-md-icon",
-	"description": "Material Design Icon component.",
+	"description": "Material Design Icon component for Riot.js.",
 	"authors": [{
 		"name": "Luke Edwards",
 		"email": "luke@lukeed.com",
