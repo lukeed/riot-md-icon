@@ -6,31 +6,32 @@
 ## Install
 
 ```
-$ bower install --save md-icon
+$ bower install --save riot-md-icon
 ```
+
+You must also include [`md-icon.sass`](md-icon.sass) in your styles.
+
+Alternatively, you may use one of the [multiple methods](http://google.github.io/material-design-icons/#icon-font-for-the-web) to load the Material Design Icons.
 
 
 ## Usage
 
 ```js
-<md-icon prop="{ test }"></md-icon>
+<md-icon type="credit_card"></md-icon>
 ```
 
+All icons are available on [Google's Spec Sheet](https://design.google.com/icons). 
 
 ## Options
 
-#### attr1
+#### type
 
-Type: `string`
+Type: `string`<br>
+Required: `true`
 
-Lorem ipsum.
+The name of an icon to display, found from the [Icon Reference](https://design.google.com/icons) are used here.
 
-#### attr2
-
-Type: `boolean`<br>
-Default: `false`
-
-Lorem ipsum.
+Names that contain spaces must contain underscores (`_`) instead.
 
 
 ## License
