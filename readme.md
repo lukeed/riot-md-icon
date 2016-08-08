@@ -9,7 +9,7 @@
 $ bower install --save riot-md-icon
 ```
 
-You must also include [`md-icon.sass`](md-icon.sass) in your styles.
+You must also import [`md-icon.sass`](md-icon.sass) into your styles.
 
 Alternatively, you may use one of the [multiple methods](http://google.github.io/material-design-icons/#icon-font-for-the-web) to load the Material Design Icons.
 
